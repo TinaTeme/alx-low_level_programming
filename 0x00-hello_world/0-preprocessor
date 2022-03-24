@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc - $CFILE -Oalaxy  C
+gcc -E $CFILE -0 C
